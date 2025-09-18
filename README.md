@@ -8,7 +8,7 @@ Spam messages can be annoying and sometimes harmful. This project provides an au
 
 # Dataset
 
-Dataset Used:
+Dataset Used: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 Contains labeled SMS messages as spam or ham
 
